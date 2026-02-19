@@ -25,4 +25,5 @@ This project is a simple Python program that:
 - Basic data processing
 
 ## Author:
-Sravya Kovvuri
+Lavanya Beeraka
+
